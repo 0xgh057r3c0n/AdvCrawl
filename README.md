@@ -1,4 +1,4 @@
-# URL Parameter Crawler
+# AdvCrawl
 
 A simple Python tool to crawl a specified domain and extract URL parameters from the pages found. This tool can be useful for web scraping, SEO analysis, or understanding the structure of a website's URLs.
 

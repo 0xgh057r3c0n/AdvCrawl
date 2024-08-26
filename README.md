@@ -29,4 +29,4 @@ This tool requires the following Python libraries:
    pip install -r requirements.txt
    
 ## Uasge
-python3 AdvCrawl.py <domain> [--max-pages <number>]
+python3 AdvCrawl.py example.com --max-pages 500
